@@ -64,6 +64,7 @@
 
 ![two](two.png)
 ![two](five.png)
+![two](six.png)
 ![three](three.png)
 ![four](four.png)
 
